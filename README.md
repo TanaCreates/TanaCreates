@@ -2,7 +2,7 @@
 
 **'Digital Craftswoman (Developer)'**
 
-🌍 Aspiring full stack developer crafting my own digital universe, one line of code at a time. Every project is a journey from concept to creation—planned, designed, and brought to life by me. I’m all about turning ideas into exciting realities. Watching my code evolve into something tangible? That’s the magic. xoxo
+🌍 Crafting my own digital universe, one line of code at a time. Every project is a journey from concept to creation—planned, designed, and brought to life by me. I’m all about turning ideas into exciting realities. Watching my code evolve into something tangible? That’s the magic. xoxo
 
 <!-- second section
 -->
